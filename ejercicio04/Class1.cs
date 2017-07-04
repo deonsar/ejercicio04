@@ -8,5 +8,7 @@ namespace ejercicio04
 {
     public class Class1
     {
+        String texto;
     }
+
 }
